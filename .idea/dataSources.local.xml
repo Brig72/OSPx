@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - OSP@localhost" uuid="db645045-ab1e-4902-a88f-1978136da07a">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>OSP.pg_catalog OSP.public</schema-pattern>
+      <default-schemas>OSP.pg_catalog OSP.public</default-schemas>
+    </data-source>
+  </component>
+</project>
